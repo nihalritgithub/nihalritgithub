@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nihal Kumar Sharma</h1>
+<h1 align="center">Hi, I'm Nihal Kumar Sharma</h1>
 <h3 align="center">"I'm a Software Developer from India, currently working at Kaleris, where I build scalable and secure enterprise solutions for global clients. I'm also a passionate competitive programmer — a Candidate Master on Codeforces, Guardian on LeetCode (Top 0.17%), 5 star on CodeChef, and an Expert-ranked contributor on Kaggle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalritgithub&label=Profile%20views&color=0e75b6&style=flat" alt="nihalritgithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalritgithub" alt="nihalritgithub" /></a> </p>
-
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nihalritgithub&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="nihalritgithub trophies"/>
+  </a>
+</p>
 - 🌱 I’m currently learning **Advanced System Design**
 
 - 👯 I’m looking to collaborate on **Blockchain and AI/ML-based open-source tools**
