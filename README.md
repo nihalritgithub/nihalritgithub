@@ -31,6 +31,7 @@ I build backend systems where correctness under failure matters: message orderin
 ## Projects
 
 **FairDrop** — High-concurrency fair allocation platform
+
 Java 21 / Spring Boot flash-sale allocation service with FIFO fairness and zero overselling via PostgreSQL row locking. Sustains ~800 requests/s at p99 ~150 ms across 5,000 concurrent buyers. Transactional outbox to Kafka, idempotent consumers, DLQ, Redis rate limiting, 57 concurrency/integration tests, and Micrometer/Prometheus observability.
 
 ---
@@ -48,11 +49,11 @@ Java 21 / Spring Boot flash-sale allocation service with FIFO fairness and zero 
 
 ## Technical Stack
 
-**Languages:** Java, SQL, JavaScript, TypeScript, C++, Python
-**Backend:** Spring Boot, Spring Integration, Spring MVC, Hibernate/JPA, REST APIs
-**Messaging:** Apache Kafka, ActiveMQ/JMS, Transactional Outbox, Idempotent Consumers
-**Data:** PostgreSQL, SQL Server, Redis, Flyway
-**Infrastructure:** Docker, Kubernetes, Google Cloud (Professional Cloud Architect), Prometheus, Grafana
+- **Languages:** Java, SQL, JavaScript, TypeScript, C++, Python
+- **Backend:** Spring Boot, Spring Integration, Spring MVC, Hibernate/JPA, REST APIs
+- **Messaging:** Apache Kafka, ActiveMQ/JMS, Transactional Outbox, Idempotent Consumers
+- **Data:** PostgreSQL, SQL Server, Redis, Flyway
+- **Infrastructure:** Docker, Kubernetes, Google Cloud (Professional Cloud Architect), Prometheus, Grafana
 
 ---
 
