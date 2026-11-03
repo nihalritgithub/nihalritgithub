@@ -32,8 +32,6 @@ I build backend systems where correctness under failure matters: message orderin
 
 ### [FairDrop](https://github.com/nihalritgithub/fairdrop) — High-concurrency fair allocation platform
 
-[![FairDrop](https://raw.githubusercontent.com/nihalritgithub/fairdrop/main/docs/fairdrop-cover.png)](https://github.com/nihalritgithub/fairdrop)
-
 Java 21 / Spring Boot flash-sale allocation service with FIFO fairness and zero overselling via PostgreSQL row locking. Sustains **~800 requests/s at p99 ~150 ms** across 5,000 concurrent buyers. Transactional outbox to Kafka, idempotent consumers, DLQ, Redis rate limiting, 57 concurrency/integration tests, and Micrometer/Prometheus observability.
 
 **[Code](https://github.com/nihalritgithub/fairdrop)** · **[Live Demo](https://fairdrop-dq3n.onrender.com)**
